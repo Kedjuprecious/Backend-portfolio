@@ -1,0 +1,8 @@
+password: axbhomj25VhlKtVc
+username: kedjuprecious
+
+mongodb+srv://kedjuprecious:<password>@react-backend.khmkpje.mongodb.net/
+
+mongodb+srv://kedjuprecious:axbhomj25VhlKtVc@react-backend.khmkpje.mongodb.net/
+
+mongodb+srv://kedjuprecious:axbhomj25VhlKtVc@react-backend.khmkpje.mongodb.net/?retryWrites=true&w=majority
